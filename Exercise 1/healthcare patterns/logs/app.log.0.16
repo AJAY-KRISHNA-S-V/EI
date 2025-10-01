@@ -1,0 +1,8 @@
+Sep 28, 2025 7:56:49 PM decorator.DecoratorDemo run
+INFO: --- Decorator Pattern Demo ---
+Sep 28, 2025 7:56:49 PM decorator.DecoratorDemo run
+INFO: Basic Report: Report for Alice: BP Normal
+Sep 28, 2025 7:56:49 PM decorator.DecoratorDemo run
+INFO: Decorated Report: Report for Alice: BP Normal | EMERGENCY: High heart rate detected
+Sep 28, 2025 7:56:49 PM decorator.DecoratorDemo run
+INFO: Signed & Emergency Report: Report for Alice: BP Normal | EMERGENCY: High heart rate detected | Signed by: Dr. Kumar

@@ -1,0 +1,22 @@
+Sep 28, 2025 7:55:43 PM app.ApplicationRunner start
+INFO: Application starting...
+Sep 28, 2025 7:56:14 PM app.ApplicationRunner lambda$start$0
+INFO: [BackgroundTask] Periodic health-check tick.
+Sep 28, 2025 7:56:14 PM app.ApplicationRunner runDemoByNumber
+INFO: Running Observer Demo
+Sep 28, 2025 7:56:31 PM app.ApplicationRunner runDemoByNumber
+INFO: Running Strategy Demo
+Sep 28, 2025 7:56:44 PM app.ApplicationRunner lambda$start$0
+INFO: [BackgroundTask] Periodic health-check tick.
+Sep 28, 2025 7:57:14 PM app.ApplicationRunner lambda$start$0
+INFO: [BackgroundTask] Periodic health-check tick.
+Sep 28, 2025 7:57:20 PM app.ApplicationRunner shutdown
+INFO: Application shutting down...
+Sep 28, 2025 7:57:20 PM app.ApplicationRunner shutdown
+INFO: Shutdown complete.
+Sep 28, 2025 8:29:07 PM singleton.HospitalDatabase <init>
+INFO: HospitalDatabase initialized.
+Sep 28, 2025 8:29:07 PM singleton.HospitalDatabase addRecord
+INFO: Record added: ajay -> Age=18, BMI=25, BP=150
+Sep 28, 2025 8:29:44 PM singleton.HospitalDatabase addRecord
+INFO: Record added: madhav -> Age=18, BMI=10, BP=60

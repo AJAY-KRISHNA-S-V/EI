@@ -1,0 +1,4 @@
+Sep 28, 2025 7:56:49 PM adapter.SmartWatchAdapter <init>
+INFO: SmartWatchAdapter initialized.
+Sep 28, 2025 7:56:49 PM adapter.SmartWatchAdapter getData
+INFO: Adapter converting pulse=85 to formattedData=Pulse: 85 bpm

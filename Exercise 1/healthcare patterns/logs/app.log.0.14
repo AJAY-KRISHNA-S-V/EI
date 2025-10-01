@@ -1,0 +1,4 @@
+Sep 28, 2025 7:56:49 PM adapter.SmartWatch <init>
+INFO: SmartWatch initialized with pulse=85
+Sep 28, 2025 7:56:49 PM adapter.SmartWatch getPulse
+INFO: SmartWatch returning pulse=85

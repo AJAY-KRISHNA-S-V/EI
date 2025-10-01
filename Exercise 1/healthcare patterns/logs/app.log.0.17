@@ -1,0 +1,8 @@
+Sep 28, 2025 7:56:49 PM decorator.BasicReport <init>
+INFO: BasicReport created for patient=Alice
+Sep 28, 2025 7:56:49 PM decorator.BasicReport generate
+INFO: BasicReport generated: Report for Alice: BP Normal
+Sep 28, 2025 7:56:49 PM decorator.BasicReport generate
+INFO: BasicReport generated: Report for Alice: BP Normal
+Sep 28, 2025 7:56:49 PM decorator.BasicReport generate
+INFO: BasicReport generated: Report for Alice: BP Normal

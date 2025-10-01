@@ -1,0 +1,6 @@
+Sep 28, 2025 7:56:49 PM decorator.EmergencyAlertReport <init>
+WARNING: EmergencyAlertReport created with alert=High heart rate detected
+Sep 28, 2025 7:56:49 PM decorator.EmergencyAlertReport generate
+WARNING: Emergency report generated: Report for Alice: BP Normal | EMERGENCY: High heart rate detected
+Sep 28, 2025 7:56:49 PM decorator.EmergencyAlertReport generate
+WARNING: Emergency report generated: Report for Alice: BP Normal | EMERGENCY: High heart rate detected

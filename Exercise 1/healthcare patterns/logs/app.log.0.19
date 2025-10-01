@@ -1,0 +1,4 @@
+Sep 28, 2025 7:56:49 PM decorator.SignedReportDecorator <init>
+INFO: SignedReportDecorator created by Dr. Kumar
+Sep 28, 2025 7:56:49 PM decorator.SignedReportDecorator generate
+INFO: Signed report generated: Report for Alice: BP Normal | EMERGENCY: High heart rate detected | Signed by: Dr. Kumar
